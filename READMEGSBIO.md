@@ -1,8 +1,18 @@
-Gemma Sayers Portfolio Project
+# Gemma Sayers Portfolio Project #
+
+## Contents ##
+---
+
+* UX
+  * Project Goals & Objectives 
+  * User Goals
+  * Stakeholder Goals
+  * User Requirements and expectations 
+  * Design choices 
 
 Objective:
 
-To provide a portfolio site that serves inform the user of the work history between Gemma's extensive experience in the fashion industry in combination with her path to becoming a Full Stack Developer for maximum future career and freelance opportunities. 
+To provide a portfolio site that serves **inform** the user of the work history between Gemma's extensive experience in the fashion industry in combination with her path to becoming a Full Stack Developer for maximum future career and freelance opportunities. 
 
 Goals: 
 
@@ -12,7 +22,7 @@ Contact Gemma using the contact form
 Download the CV
 Connect with Gemma on social media
 
-UX
+
 
 User Stories:
 
@@ -22,3 +32,12 @@ As a Potential Employer for a leadership role, I want to understand how Gemma's 
 
 As a Potential Collaborator, I want to be able to see Gemma's strengths  and be able to contafct her directly through the site and have easy access to her portfolio and social media pages.  I want to be able to submit a project request.
 
+Features;
+
+Home Page: 
+
+The homepage allows users to get a first impression of Gemma, whilst containing calls to action for the needs of the user.  From the home page, the user can direct to the following pages in one click, Contact, Postfolio, Work History. 
+
+Contact Page: 
+
+The contact page contains a form to submit for general contact or project request. 
