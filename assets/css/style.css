@@ -3,19 +3,53 @@
 /*----------------------------------Colours */
 
 .bg-colour-navbar {
-    background-colour: #3f312e;
+    background-color: #3f312e;
 }
 
 .bg-colour-navbar {
-    background-colour: #3f312e;
+    background-color: #3f312e;
 }
 
 .fg-colour-general {
-    colour: #f0f0f0;
+    color: #f0f0f0;
+}
+
+/*----------------------------------Title */
+
+.title {
+    font-family:'Montserrat', sans-serif;
+    font-weight: 600;
 }
 
 /*----------------------------------Header */
 
-.header {
+.header-section {
+    margin right: 20px;
+    background-color: #3f312e;
     font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item {
+    margin right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #3f312e;
+}
+
+.nav li {
+    margin right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #3f312e;
+}
+
+/*----------------------------------main section */
+
+.portfolio-section-block {
+    
+}
+
+.work-history-section-block {
+
+}
+.contact-section-block {
+
 }
