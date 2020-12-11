@@ -6,7 +6,7 @@
     background-color: #3f312e;
 }
 
-.bg-colour-navbar {
+.bg-colour-jumbotron {
     background-color: #3f312e;
 }
 
@@ -28,10 +28,13 @@
 .title {
     font-family:'Montserrat', sans-serif;
     font-weight: 600;
+    
+   
 }
 .name {
      font-family:'Montserrat', sans-serif;
      margin-left: 50px;
+     padding-bottom: 40px;
    
 }
 
@@ -49,24 +52,43 @@
 /*----------------------------------main section */
 
 .portfolio-section-block {
-    margin: 10px;
+    margin: 15px;
     background-color: #b2dfdd;
     font-family:'Montserrat', sans-serif;
     font-weight: 400;
     text-align: center;
+    text-size-adjust: auto;
+    block-size: 150px;
+    padding-top: 35px;
 }
 
 .work-history-section-block {
-    margin: 10px;
+    margin: 15px;
     background-color: #b2dfdd;
     font-family:'Montserrat', sans-serif;
     font-weight: 400;
     text-align: center;
+    text-size-adjust: auto;
+    block-size: 150px;
+    padding-top: 35px;
+
 }
 .contact-section-block {
-    margin: 10px;
+    margin: 15px;
     background-color: #b2dfdd;
     font-family:'Montserrat', sans-serif;
     font-weight: 400;
     text-align: center;
+    text-size-adjust: auto;
+    block-size: 150px;
+    padding-top: 35px;
+}
+
+.nav-link {
+    display: inline-flex;
+}
+
+.footer {
+    background-color: #3f312e;
+
 }
