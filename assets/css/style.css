@@ -14,11 +14,25 @@
     color: #f0f0f0;
 }
 
+.fg-colour-highlight {
+    color: #e3d4c7;
+}
+
+/*----------------------------------Text */
+
+.uppercase {
+    text-transform: uppercase;
+}
 /*----------------------------------Title */
 
 .title {
     font-family:'Montserrat', sans-serif;
     font-weight: 600;
+}
+.name {
+     font-family:'Montserrat', sans-serif;
+     margin-left: 50px;
+   
 }
 
 /*----------------------------------Header */
@@ -28,28 +42,31 @@
     background-color: #3f312e;
     font-family: 'Montserrat', sans-serif;
 }
-
-.nav-item {
-    margin right: 20px;
-    font-family: 'Montserrat', sans-serif;
-    background-color: #3f312e;
+.button {
+    background-color: #b2dfdd;
+    margin: 20px 20px 20px 200px;
 }
-
-.nav li {
-    margin right: 20px;
-    font-family: 'Montserrat', sans-serif;
-    background-color: #3f312e;
-}
-
 /*----------------------------------main section */
 
 .portfolio-section-block {
-    
+    margin: 10px;
+    background-color: #b2dfdd;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
 }
 
 .work-history-section-block {
-
+    margin: 10px;
+    background-color: #b2dfdd;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
 }
 .contact-section-block {
-
+    margin: 10px;
+    background-color: #b2dfdd;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
 }
