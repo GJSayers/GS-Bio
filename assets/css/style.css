@@ -11,10 +11,10 @@
 }
 
 .fg-colour-general {
-    color: #f0f0f0;
+    color: #3f312e;
 }
 
-.fg-colour-highlight {
+.fg-color-highlight {
     color: #e3d4c7;
 }
 
@@ -23,15 +23,25 @@
 .uppercase {
     text-transform: uppercase;
 }
+
+/*----------------------------------Nav */
+
+.nav-link {
+    display: inline-flex;
+    text-decoration-color: #e3d4c7;
+    padding: 10px;
+}
 /*----------------------------------Title */
 
 .title {
     font-family:'Montserrat', sans-serif;
+    text-decoration-color: #3f312e;
     font-weight: 600;
-    
-   
+    padding-top: 300px;
+    padding-left: 15px;
 }
 .name {
+     display: inline;
      font-family:'Montserrat', sans-serif;
      margin-left: 50px;
      padding-bottom: 40px;
@@ -46,8 +56,17 @@
     font-family: 'Montserrat', sans-serif;
 }
 .button {
+    display: inline;
     background-color: #b2dfdd;
-    margin: 20px 20px 20px 200px;
+    margin: 20px 20px 20px 100px;
+}
+
+.jumbotron {
+    background: url("../images/Laptopimage.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
 }
 /*----------------------------------main section */
 
@@ -84,9 +103,9 @@
     padding-top: 35px;
 }
 
-.nav-link {
-    display: inline-flex;
-}
+
+   
+
 
 .footer {
     background-color: #3f312e;
